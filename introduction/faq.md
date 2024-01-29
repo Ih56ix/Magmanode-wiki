@@ -1,11 +1,8 @@
 # FAQ
 
-{% hint style="info" %}
-Is this the official Magmanode Wiki?
-{% endhint %}
-
-{% hint style="success" %}
-No, but the owner of magmanode (DEKKU) appreciates and approves it. This wiki is managed by the magmanode community
+{% hint style="danger" %}
+This is not the official Magmanode wiki!
+This wiki is managed by the community and is appreciated by the owner of Magmanode.
 {% endhint %}
 
 ***
