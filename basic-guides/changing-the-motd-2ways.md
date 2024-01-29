@@ -1,18 +1,18 @@
-# Changing The MOTD (2ways)
+# How to change motd of your server?
 
-There are 2 ways To Set/Change the MOTD of a server\
-I'm gonna tell you the two:
+There are two methods to change the MOTD of your server.\
 
 ## Method 1: Using plugins.
 
-For This you need A Server version that supports plugins.
+For This you need A Server software that supports plugins.
+eg: purpur,paper,etc.
 
 
 
 1. Download The Plugin [MOTD](https://app.gitbook.com/s/XERiXtwQRy94MoOzUORi/), one of the most popular Plugins for changing your <mark style="color:orange;">server's MOTD</mark>.
-2. Open Up The [FTP Panel](../introduction/faq.md) And Go To The Server Files
+2. Open Up The [Panel](../introduction/faq.md) And Go To The Server Files
 3. Find and open The folder Plugins.
-4. Upload the [MOTD](https://app.gitbook.com/s/XERiXtwQRy94MoOzUORi/) mod and Restart/Start your Server
+4. Upload the [MOTD PLUGIN](https://app.gitbook.com/s/XERiXtwQRy94MoOzUORi/)  and Restart/Start your Server
 5. When you start it you should see your <mark style="color:orange;">Server's MOTD</mark> Has Been Changed to a <mark style="color:red;">c</mark><mark style="color:orange;">o</mark><mark style="color:yellow;">l</mark><mark style="color:green;">o</mark><mark style="color:blue;">r</mark><mark style="color:purple;">f</mark><mark style="background-color:purple;">u</mark><mark style="background-color:yellow;">l</mark> one.
 
 To Configure this Again go to the Plugins tab that you were on, and You'll see a new folder has Popped up, Open it, you'll see a <mark style="color:purple;">config.yml</mark>
