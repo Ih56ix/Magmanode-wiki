@@ -41,9 +41,9 @@ Yes.
 ***
 
 {% hint style="warning" %}
-My Server Doesnt Start!
+My Server Doesn't start!
 {% endhint %}
 
 {% hint style="success" %}
-Create A Ticket In The Discord Server
+If you have some kind of issues regarding your server, join the magmanode community discord server and go to community support channel and describe your issue, if you are not satisfied with the answers there then create a ticket.
 {% endhint %}
