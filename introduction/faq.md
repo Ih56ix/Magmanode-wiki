@@ -5,7 +5,7 @@ Is this the official Magmanode Wiki?
 {% endhint %}
 
 {% hint style="success" %}
-Yes. Kinda.
+No, but the owner of magmanode (DEKKU) appreciates and approves it. This wiki is managed by the magmanode community
 {% endhint %}
 
 ***
@@ -15,17 +15,17 @@ Are servers 24/7?
 {% endhint %}
 
 {% hint style="success" %}
-no.
+No, as it is a free server hosting.
 {% endhint %}
 
 ***
 
 {% hint style="info" %}
-When will it stop?
+After how much time my server will stop if it has no players?
 {% endhint %}
 
 {% hint style="success" %}
-it depends on the server's Processor the less you use the less likely it shuts down
+It can't be said because it depends on the server load, if the nodes are overloaded your server will shutdown within 1 minute, if not can run upto 16-17 Hours.
 {% endhint %}
 
 ***
