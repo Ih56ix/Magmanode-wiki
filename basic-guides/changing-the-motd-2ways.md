@@ -1,4 +1,4 @@
-# Changing The MOTD (2ways)
+# How to change the motd of your server.
 
 There are two methods to change the MOTD of your server.\\
 
