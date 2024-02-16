@@ -1,4 +1,4 @@
-# How to change the motd of your server.
+# Changing The MOTD (2ways)
 
 There are two methods to change the MOTD of your server.\\
 
@@ -17,7 +17,7 @@ To Configure this Again go to the Plugins tab that you were on, and You'll see a
 Open it and you can change it from there
 
 {% hint style="info" %}
-see [https://www.digminecraft.com/lists/color\_list\_pc.php](https://www.digminecraft.com/lists/color\_list\_pc.php)
+See [https://www.digminecraft.com/lists/color\_list\_pc.php](https://www.digminecraft.com/lists/color\_list\_pc.php)
 
 For Color codes
 {% endhint %}
