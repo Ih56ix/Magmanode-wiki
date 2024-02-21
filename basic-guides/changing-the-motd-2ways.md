@@ -1,14 +1,23 @@
-# Changing The MOTD (2ways)
+---
+description: >-
+  MOTD's (Short for MessageOfTheDay) Are A Text that will appear on your server
+  when adding it to the server list. People Mostly call them Descriptions of a
+  Server
+---
 
-There are two methods to change the MOTD of your server.\\
+# MOTD
 
-## Method 1: Using plugins.
+To Change Your Servers MOTD you can Use these Two Methods
 
-For This you need A Server software that supports plugins. eg: purpur,paper,etc.
+## #1 Using plugins.
 
-1. Download The Plugin [MOTD](https://app.gitbook.com/o/7BSLsDYppTJTOKsad46s/s/XERiXtwQRy94MoOzUORi/), one of the most popular Plugins for changing your <mark style="color:orange;">server's MOTD</mark>.
+{% hint style="danger" %}
+You Need A [Server Version](https://app.gitbook.com/s/w3hA2UolsJ7ATnHK8tbw/server-versions-which-support-plugins.) For This That Supports The Use Of Plugins.
+{% endhint %}
+
+1. Download The Plugin [MOTD](https://app.gitbook.com/o/7BSLsDYppTJTOKsad46s/s/XERiXtwQRy94MoOzUORi/), one of the most popular Plugins for changing your server's MOTD.
 2. Open Up The [Panel](../introduction/faq.md) And Go To The Server Files
-3. Find and open The folder Plugins.
+3. ."Find and open The folder "Plugins
 4. Upload the [MOTD PLUGIN](https://app.gitbook.com/o/7BSLsDYppTJTOKsad46s/s/XERiXtwQRy94MoOzUORi/) and Restart/Start your Server
 5. When you start it you should see your <mark style="color:orange;">Server's MOTD</mark> Has Been Changed to a <mark style="color:red;">c</mark><mark style="color:orange;">o</mark><mark style="color:yellow;">l</mark><mark style="color:green;">o</mark><mark style="color:blue;">r</mark><mark style="color:purple;">f</mark><mark style="background-color:purple;">u</mark><mark style="background-color:yellow;">l</mark> one.
 
