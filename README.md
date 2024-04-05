@@ -10,7 +10,7 @@
 ## Links
 - [MagmaNode](https://magmanode.com/)
 - [Magmanode Wiki](https://wiki.magmanode.com/)
-- [Magmanode Discord](https://)
+- [Magmanode Discord](https://discord.com/invite/P9reWNmrNZ)
 - [Magmanode Community Wiki](https://magmanode.gitbook.io/)
 
 
