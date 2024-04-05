@@ -8,7 +8,7 @@ description: >-
 
 
 
-## 1. Giving Permission Inside the Game
+## 1. Giving Permissions Inside the Game
 
 This is Pretty straight forward you can just use the in-game command
 

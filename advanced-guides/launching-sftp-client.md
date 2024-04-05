@@ -1,9 +1,9 @@
-# Launching SFTP Client
+# SFTP's
 
 There's 2 Apps for SFTP in MagmaNode.
 
-1. FileZilla (Less Customization but more advanced?)
-2. WinCP (More Customization)
+1. FileZilla (Lets you open files from their respective apps)
+2. WinSCP (Faster Connection)
 
 You can use Any.
 
@@ -15,4 +15,4 @@ Launch FileZilla/WinCP and Put The Username and the Host, now it wants a Passwor
 
 
 
-Now you can upload/Download big files
+Now you can upload/Download big files and even folders!
