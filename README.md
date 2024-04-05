@@ -1,9 +1,11 @@
----
-Welcome to the Unofficial Magmanode Hosting Wiki!: >-
-  Here you will find quite a bit of Information, which might even answer some of your questions!
+## [MAGMANODE-WIKI](https://magmanode.gitbook.io/)
+
 ---
 
-# Magmanode
+About This Wiki: >-
+  This is a community  maintained wiki for [MAGMANODE](https://magmanode.com/), Therefore this is not the official wiki of [MAGMANODE](https://magmanode.com/)
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>A Minecraft Hosting Provider</p></figcaption></figure>
+---
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
