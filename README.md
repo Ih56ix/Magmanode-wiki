@@ -1,7 +1,8 @@
 ## [MAGMANODE-WIKI](https://magmanode.gitbook.io/)
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Welcome to the GitHub Page Of Magmanode Wiki, Contribute by creating tutorials about Magmanode dashboard and tutorials about Minecraft Server.**
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 > [!NOTE]
 > _This is a community  maintained wiki for [MAGMANODE](https://magmanode.com/), Therefore this is not the official wiki of [MAGMANODE](https://magmanode.com/)_
